@@ -1,0 +1,22 @@
+/dump.rdb
+# Created by .ignore support plugin (hsz.mobi)
+### Laravel template
+/vendor
+node_modules/
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+.env.*.php
+.env.php
+.env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+/.phpstorm.meta.php
+.rocketeer/
+/_ide_helper.php
+/_ide_helper_models.php
+.idea
+.idea/
